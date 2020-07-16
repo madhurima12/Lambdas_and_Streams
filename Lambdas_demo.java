@@ -1,4 +1,4 @@
-package lamdas_and_streams;
+package lambdas_and_streams;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
